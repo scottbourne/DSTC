@@ -1,4 +1,4 @@
-THis is a test file with some useful links:
+This is a test file with some useful links:
 
 http://www.dataschool.io/
 
